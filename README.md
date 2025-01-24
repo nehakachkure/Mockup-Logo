@@ -19,4 +19,8 @@
 * Plugins: Plugins that can be used to create mockups 
 * Free mockups: Free mockups that can be used in designs 
 * 3D models: 3D models that can be loaded and exported to a frame 
-* Mockup generators: Mockup generators that can be used to create mockups 
+* Mockup generators: Mockup generators that can be used to create mockups
+
+*OUTPUT OF TASK **:
+
+![Image](https://github.com/user-attachments/assets/fabfeff7-39cb-4609-ad5f-5f111017328a)
